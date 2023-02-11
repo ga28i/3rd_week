@@ -38,7 +38,7 @@ function getRandomChoice() {
 }
 
 function isGameOver() {
-  return playerScore === 10 || computerScore === 10
+  return playerScore === 5 || computerScore === 5
 }
 
 // UI
